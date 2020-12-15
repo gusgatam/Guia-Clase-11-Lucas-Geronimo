@@ -1,7 +1,7 @@
 #include <stdio.h>;
 #include <stdlib.h>;
 
-void porcentaje();
+void porcentaje();//Sin funciones.
 int main()
 {
 float H,M,Total,PorM,PorH;

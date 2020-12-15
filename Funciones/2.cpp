@@ -1,6 +1,6 @@
 #include <stdio.h>;
 #include <stdlib.h>;
-int main ()
+int main ()//Sin funciones
 {
 int base,altura,A,P;
 printf("Ingrese la base del rectangulo ");
